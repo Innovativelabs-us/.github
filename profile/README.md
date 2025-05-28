@@ -20,4 +20,4 @@ A product carefully curated and developed by our own team, and useful to people 
 
 🧙  Finally closing on a reminder note. We are a full-stack 360-degree IT Solution Service Provider and can handle any and all developmental tasks and challenges a client may present.
 We are a team that is reliable, trustworthy, and robust, commanding great respect worldwide.
-Reach out to us for work-related queries at wecare@innovativelabs.us or contact our business development head directly mian@innovativelabs.us
+Reach out to us for work-related queries at wecare@innovativelabs.us
